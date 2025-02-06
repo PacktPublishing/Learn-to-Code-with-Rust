@@ -1,0 +1,44 @@
+Rust Book section: What is Ownership?:
+https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#what-is-ownership
+
+Rust Book section: Ownership Rules:
+https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#ownership-rules
+
+Rust Book section: The Stack and the Heap:
+https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#the-stack-and-the-heap
+
+Rust Book section: Variable Scope:
+https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#variable-scope
+
+Rust Book section: Stack-Only Data: Copy:
+https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#stack-only-data-copy
+
+Rust Book section: The String Type:
+https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#the-string-type
+
+Rust Book section: Creating a New String:
+https://doc.rust-lang.org/book/ch08-02-strings.html#creating-a-new-string
+
+Rust Book section: Updating a String:
+https://doc.rust-lang.org/book/ch08-02-strings.html#updating-a-string
+
+Documentation for push_str method:
+https://doc.rust-lang.org/beta/std/string/struct.String.html#method.push_str
+
+Rust Book section: Variables and Data Interacting with Move:
+https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#variables-and-data-interacting-with-move
+
+Rust Book section: Variables and Data Interacting with Clone:
+https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#variables-and-data-interacting-with-clone
+
+Documentation for clone method:
+https://doc.rust-lang.org/beta/std/string/struct.String.html#method.clone
+
+Rust Book section: References and Borrowing:
+https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html#references-and-borrowing
+
+Rust Book section: Ownership and Functions:
+https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#ownership-and-functions
+
+Rust Book section: Return Values and Scope:
+https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html#return-values-and-scope

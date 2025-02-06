@@ -1,0 +1,89 @@
+Official Rust website:
+https://www.rust-lang.org/
+
+Wikipedia article for "compiler":
+https://en.wikipedia.org/wiki/Compiler
+
+Wikipedia article for the macOS Terminal:
+https://en.wikipedia.org/wiki/Terminal_(macOS)
+
+BuiltIn article on Terminal Commands you should know:
+https://builtin.com/software-engineering-perspectives/terminal-commands
+
+Installation guide for XCode Command Line Tools:
+https://mac.install.guide/commandlinetools/4
+
+Rust Download page:
+https://www.rust-lang.org/tools/install
+
+Rust Book Section: Installing rustup on Linux or macOS:
+https://doc.rust-lang.org/book/ch01-01-installation.html#installing-rustup-on-linux-or-macos
+
+Visual Studio Code website:
+https://code.visualstudio.com/
+
+Setup instructions for adding the PATH to command line:
+https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line
+
+Wikipedia article for Powershell:
+https://en.wikipedia.org/wiki/PowerShell
+
+Microsoft article on determining if the system is 32-bit or 64-bit:
+https://support.microsoft.com/en-us/windows/32-bit-and-64-bit-windows-frequently-asked-questions-c6ca9541-8dce-4d48-0415-94a3faa2e13d
+
+Rust Book Section: Installing rustup on Windows
+https://doc.rust-lang.org/book/ch01-01-installation.html#installing-rustup-on-windows
+
+Rust website article on keeping Rust up to date:
+https://rust-lang.github.io/rustup/basics.html#keeping-rust-up-to-date
+
+Rust Book Section: Updating and Uninstalling:
+https://doc.rust-lang.org/book/ch01-01-installation.html#updating-and-uninstalling
+
+Rust Book Section: Local Documentation:
+https://doc.rust-lang.org/book/ch01-01-installation.html#local-documentation
+
+Git Website:
+https://git-scm.com/
+
+Documentation for Cargo new:
+https://doc.rust-lang.org/cargo/commands/cargo-new.html
+
+Rust Book Section: Creating a Project with Cargo:
+https://doc.rust-lang.org/book/ch01-03-hello-cargo.html#creating-a-project-with-cargo
+
+Hello World from "Rust by Example" Book:
+https://doc.rust-lang.org/rust-by-example/hello.html
+
+Rust Book Section: Anatomy of a Rust Program:
+https://doc.rust-lang.org/book/ch01-02-hello-world.html#anatomy-of-a-rust-program
+
+Rust Book Section: Writing and Running a Rust Program:
+https://doc.rust-lang.org/book/ch01-02-hello-world.html#writing-and-running-a-rust-program
+
+Rust By Example section: Hello World:
+https://doc.rust-lang.org/rust-by-example/hello.html
+
+Rust Book Section: Compiling and Running are Separate Steps:
+https://doc.rust-lang.org/book/ch01-02-hello-world.html#compiling-and-running-are-separate-steps
+
+Documentation for cargo build command:
+https://doc.rust-lang.org/cargo/commands/cargo-build.html
+
+Rust Book Section: Building and Running a Cargo Project:
+https://doc.rust-lang.org/book/ch01-03-hello-cargo.html#building-and-running-a-cargo-project
+
+Rust Book Section: Building for Release:
+https://doc.rust-lang.org/book/ch01-03-hello-cargo.html#building-for-release
+
+Documentation for cargo run command:
+https://doc.rust-lang.org/cargo/commands/cargo-run.html
+
+Documentation for cargo check command:
+https://doc.rust-lang.org/cargo/commands/cargo-check.html
+
+Rust Book Section: Comments:
+https://doc.rust-lang.org/book/ch03-04-comments.html
+
+Rust By Example section: Comments:
+https://doc.rust-lang.org/rust-by-example/hello/comment.html

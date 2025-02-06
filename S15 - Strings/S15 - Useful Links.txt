@@ -1,0 +1,29 @@
+Rust Book seciton: What Is a String?:
+https://doc.rust-lang.org/book/ch08-02-strings.html#what-is-a-string
+
+Rust Book section: Concatenation with the + Operator or the format! Macro:
+https://doc.rust-lang.org/book/ch08-02-strings.html#concatenation-with-the--operator-or-the-format-macro
+
+Documentation for the format! macro:
+https://doc.rust-lang.org/std/macro.format.html
+
+Documentation for trim method:
+https://doc.rust-lang.org/std/string/struct.String.html#method.trim
+
+Documentation for to_uppercase method:
+https://doc.rust-lang.org/std/string/struct.String.html#method.to_uppercase
+
+Documentation for split method:
+https://doc.rust-lang.org/std/string/struct.String.html#method.split
+
+Documentation for to_lowercase method:
+https://doc.rust-lang.org/std/string/struct.String.html#method.to_lowercase
+
+Rust Book section: Receiving User Input:
+https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html#receiving-user-input
+
+Documentation for read_line method:
+https://doc.rust-lang.org/std/io/struct.Stdin.html#method.read_line
+
+
+

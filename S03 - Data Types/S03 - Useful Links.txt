@@ -1,0 +1,53 @@
+Rust Book section: Data Types:
+https://doc.rust-lang.org/book/ch03-02-data-types.html#data-types
+
+Rust Book section: Integers:
+https://doc.rust-lang.org/book/ch03-02-data-types.html#integer-types
+
+Rust Book section: Floating Point Types:
+https://doc.rust-lang.org/book/ch03-02-data-types.html#floating-point-types
+
+Rust By Example section: Casting:
+https://doc.rust-lang.org/rust-by-example/types/cast.html
+
+Rust Book section: Numeric Operations:
+https://doc.rust-lang.org/book/ch03-02-data-types.html#numeric-operations
+
+Rust Book section: The Boolean Type:
+https://doc.rust-lang.org/book/ch03-02-data-types.html#the-boolean-type
+
+Rust Book section: The Character Type:
+https://doc.rust-lang.org/book/ch03-02-data-types.html#the-character-type
+
+Rust Book section: The Array Type:
+https://doc.rust-lang.org/book/ch03-02-data-types.html#the-array-type
+
+Rust By Example section: Arrays and Slices:
+https://doc.rust-lang.org/rust-by-example/primitives/array.html
+
+Rust Book section: Accessing Array Elements:
+https://doc.rust-lang.org/book/ch03-02-data-types.html#accessing-array-elements
+
+Rust By Example section: Display:
+https://doc.rust-lang.org/rust-by-example/hello/print/print_display.html
+
+Rust Documentation for Display Trait:
+https://doc.rust-lang.org/std/fmt/trait.Display.html
+
+Rust By Example section: Debug:
+https://doc.rust-lang.org/rust-by-example/hello/print/print_debug.html
+
+Rust Documentation for Debug Trait:
+https://doc.rust-lang.org/std/fmt/trait.Debug.html
+
+Rust Documentation for dbg! Macro:
+https://doc.rust-lang.org/std/macro.dbg.html
+
+Rust Book section: The Tuple Type:
+https://doc.rust-lang.org/book/ch03-02-data-types.html#the-tuple-type
+
+Rust By Example section: Tuples:
+https://doc.rust-lang.org/rust-by-example/primitives/tuples.html
+
+Rust By Example section: Primitives:
+https://doc.rust-lang.org/rust-by-example/primitives.html

@@ -1,0 +1,11 @@
+Rust Book section: Functions:
+https://doc.rust-lang.org/book/ch03-03-how-functions-work.html#functions
+
+Rust By Example section: Functions:
+https://doc.rust-lang.org/rust-by-example/fn.html
+
+Rust Book section: Parameters:
+https://doc.rust-lang.org/book/ch03-03-how-functions-work.html#parameters
+
+Rust Book section: Functions with return values:
+https://doc.rust-lang.org/book/ch03-03-how-functions-work.html#functions-with-return-values

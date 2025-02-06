@@ -1,0 +1,2 @@
+Documentation for Option.unwrap_or_else Method:
+https://doc.rust-lang.org/std/option/enum.Option.html#method.unwrap_or_else

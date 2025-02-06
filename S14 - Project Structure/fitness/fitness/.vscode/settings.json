@@ -1,0 +1,13 @@
+{
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.formatOnSave": true,
+  },
+  "editor.fontSize": 20,
+  "files.autoSave": "onFocusChange",
+  "rust-analyzer.checkOnSave": true,
+  "terminal.integrated.fontSize": 20,
+  "workbench.panel.defaultLocation": "right",
+  "window.zoomLevel": 0,
+  "rust-analyzer.diagnostics.disabled": ["unlinked-file"]
+}

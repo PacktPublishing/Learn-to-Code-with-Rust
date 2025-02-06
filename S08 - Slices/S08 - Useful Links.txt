@@ -1,0 +1,17 @@
+Rust Book section: The Slice Type:
+https://doc.rust-lang.org/book/ch04-03-slices.html#the-slice-type
+
+Rust Book section: String Slices:
+https://doc.rust-lang.org/book/ch04-03-slices.html#string-slices
+
+Rust Book section: String Literals as Slices:
+https://doc.rust-lang.org/book/ch04-03-slices.html#string-literals-as-slices
+
+Rust Book section: Slicing Strings:
+https://doc.rust-lang.org/book/ch08-02-strings.html#slicing-strings
+
+Rust Book section: String Slices as Parameters:
+https://doc.rust-lang.org/book/ch04-03-slices.html#string-slices-as-parameters
+
+Rust Book section: Other Slices:
+https://doc.rust-lang.org/book/ch04-03-slices.html#other-slices

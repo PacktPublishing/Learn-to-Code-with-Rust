@@ -1,0 +1,26 @@
+Rust Book section: The Option Enum and Its Advantages Over Null Values:
+https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html#the-option-enum-and-its-advantages-over-null-values
+
+Documentation for get method:
+https://doc.rust-lang.org/beta/std/primitive.slice.html#method.get
+
+Rust Book section: Shortcuts for Panic on Error: unwrap and expect:
+https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#shortcuts-for-panic-on-error-unwrap-and-expect
+
+Documentation for unwrap method:
+https://doc.rust-lang.org/beta/std/option/enum.Option.html#method.unwrap
+
+Documentation for expect method:
+https://doc.rust-lang.org/beta/std/option/enum.Option.html#method.expect
+
+Rust Book section: Matching with Option<T>:
+https://doc.rust-lang.org/book/ch06-02-match.html#matching-with-optiont
+
+Documentation for unwrap_or method:
+https://doc.rust-lang.org/beta/std/option/enum.Option.html#method.unwrap_or
+
+Rust Book section: Recoverable Errors with Result:
+https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#recoverable-errors-with-result
+
+Documentation for parse method:
+https://doc.rust-lang.org/beta/std/primitive.str.html#method.parse

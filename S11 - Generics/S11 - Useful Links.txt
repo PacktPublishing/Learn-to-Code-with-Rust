@@ -1,0 +1,2 @@
+Rust Book section: Removing Duplication by Extracting a Function:
+https://doc.rust-lang.org/book/ch10-00-generics.html#removing-duplication-by-extracting-a-function

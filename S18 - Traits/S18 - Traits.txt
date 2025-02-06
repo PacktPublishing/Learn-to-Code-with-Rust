@@ -1,0 +1,51 @@
+Rust Book section: Defining a Trait:
+https://doc.rust-lang.org/book/ch10-02-traits.html#defining-a-trait
+
+Rust Book section: Implementing a Trait on a Type: 
+https://doc.rust-lang.org/book/ch10-02-traits.html#implementing-a-trait-on-a-type
+
+Rust Book section: Default Implementations:
+https://doc.rust-lang.org/book/ch10-02-traits.html#default-implementations
+
+Rust Book section: Traits as Parameters: 
+https://doc.rust-lang.org/book/ch10-02-traits.html#traits-as-parameters
+
+Rust Book section: Trait Bound Syntax:
+https://doc.rust-lang.org/book/ch10-02-traits.html#trait-bound-syntax
+
+Rust Book section: Specifying Multiple Trait Bounds with the + Syntax:
+https://doc.rust-lang.org/book/ch10-02-traits.html#specifying-multiple-trait-bounds-with-the--syntax
+
+Rust Book section: Clearer Trait Bounds with where Clauses:
+https://doc.rust-lang.org/book/ch10-02-traits.html#clearer-trait-bounds-with-where-clauses
+
+Rust Book section: Returning Types That Implement Traits:
+https://doc.rust-lang.org/book/ch10-02-traits.html#returning-types-that-implement-traits
+
+Rust Book section: Using Trait Bounds to Conditionally Implement Methods:
+https://doc.rust-lang.org/book/ch10-02-traits.html#using-trait-bounds-to-conditionally-implement-methods
+
+Rust Documentation for Display Trait:
+https://doc.rust-lang.org/std/fmt/trait.Display.html
+
+Rust Documentation for Debug Trait:
+https://doc.rust-lang.org/std/fmt/trait.Debug.html
+
+Rust Documentation for Drop Trait:
+https://doc.rust-lang.org/std/ops/trait.Drop.html
+
+Rust Documentation for Clone Trait:
+https://doc.rust-lang.org/std/clone/trait.Clone.html
+
+Rust Documentation for Copy Trait:
+https://doc.rust-lang.org/std/marker/trait.Copy.html
+
+Rust Documentation for PartialEq Trait:
+https://doc.rust-lang.org/std/cmp/trait.PartialEq.html
+
+Rust Documentation for Eq Trait:
+https://doc.rust-lang.org/std/cmp/trait.Eq.html
+
+Rust Documentation for PartailOrd Trait:
+https://doc.rust-lang.org/std/cmp/trait.PartialOrd.html
+

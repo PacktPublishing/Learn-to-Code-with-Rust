@@ -1,0 +1,38 @@
+Rust Book section: Defining and Instantiating Structs:
+https://packt.udemy.com/course/learn-to-code-with-rust/learn/lecture/46623811#overview
+
+Rust Book section: Using the Field Init Shorthand:
+https://doc.rust-lang.org/book/ch05-01-defining-structs.html#using-the-field-init-shorthand
+
+Rust Book section: Creating Instances from Other Instances with Struct Update Syntax:
+https://doc.rust-lang.org/book/ch05-01-defining-structs.html#creating-instances-from-other-instances-with-struct-update-syntax
+
+Rust Book section: Adding Useful Functionality with Derived Traits:
+https://doc.rust-lang.org/book/ch05-02-example-structs.html#adding-useful-functionality-with-derived-traits
+
+Rust By Example section: Debug:
+https://doc.rust-lang.org/rust-by-example/hello/print/print_debug.html
+
+Rust Book section: Defining Methods:
+https://doc.rust-lang.org/book/ch05-03-method-syntax.html#defining-methods
+
+Rust Book section: Methods with More Parameters:
+https://doc.rust-lang.org/book/ch05-03-method-syntax.html#methods-with-more-parameters
+
+Rust Book section: Associated Functions:
+https://doc.rust-lang.org/book/ch05-03-method-syntax.html#associated-functions
+
+Rust By Example section: Associated Functions:
+https://doc.rust-lang.org/rust-by-example/fn/methods.html
+
+Rust Book section: Multiple impl Blocks:
+https://doc.rust-lang.org/book/ch05-03-method-syntax.html#multiple-impl-blocks
+
+Rust Book section: Using Tuple Structs Without Named Fields to Create Different Types:
+https://doc.rust-lang.org/book/ch05-01-defining-structs.html#using-tuple-structs-without-named-fields-to-create-different-types
+
+Rust Book section: Unit-Like Structs Without Any Fields
+https://doc.rust-lang.org/book/ch05-01-defining-structs.html#unit-like-structs-without-any-fields
+
+Rust By Example section: Structures:
+https://doc.rust-lang.org/rust-by-example/custom_types/structs.html#structures

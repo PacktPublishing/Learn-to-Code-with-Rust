@@ -1,0 +1,30 @@
+Rust Book section: Storing Keys with Associated Values in Hash Maps:
+https://doc.rust-lang.org/book/ch08-03-hash-maps.html#storing-keys-with-associated-values-in-hash-maps
+
+Rust Book section: Creating a New Hash Map:
+https://doc.rust-lang.org/book/ch08-03-hash-maps.html#creating-a-new-hash-map
+
+Rust Documentation for HashMap::new function:
+https://doc.rust-lang.org/std/collections/struct.HashMap.html#method.new
+
+Rust Documentation for remove method:
+https://doc.rust-lang.org/std/collections/struct.HashMap.html#method.remove
+
+Rust Book section: Accessing Values in a Hash Map:
+https://doc.rust-lang.org/book/ch08-03-hash-maps.html#accessing-values-in-a-hash-map
+
+Rust Documentation for get method:
+https://doc.rust-lang.org/std/collections/struct.HashMap.html#method.get
+
+Rust Book section: Overwriting a Value:
+https://doc.rust-lang.org/book/ch08-03-hash-maps.html#overwriting-a-value
+
+Rust Book section: Adding a Key and Value Only If a Key Isn’t Present:
+https://doc.rust-lang.org/book/ch08-03-hash-maps.html#adding-a-key-and-value-only-if-a-key-isnt-present
+
+Rust Documentation for entry method:
+https://doc.rust-lang.org/std/collections/struct.HashMap.html#method.entry
+
+Hashset Documentation:
+https://doc.rust-lang.org/std/collections/struct.HashSet.html
+

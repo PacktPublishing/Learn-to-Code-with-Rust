@@ -1,0 +1,26 @@
+Rust Book section: Preventing Dangling References with Lifetimes:
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#preventing-dangling-references-with-lifetimes
+
+Rust Book section: The Borrow Checker:
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#the-borrow-checker
+
+Rust Book section: Generic Lifetimes in Functions:
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#generic-lifetimes-in-functions
+
+Rust Book section: Lifetime Annotation Syntax:
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#lifetime-annotation-syntax
+
+Rust Book section: Lifetime Annotations in Function Signatures:
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#lifetime-annotations-in-function-signatures
+
+Rust Book section: Thinking in Terms of Lifetimes:
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#thinking-in-terms-of-lifetimes
+
+Rust Book section: Lifetime Elision:
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#lifetime-elision
+
+Rust Book section: Lifetime Annotations in Struct Definitions:
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#lifetime-annotations-in-struct-definitions
+
+Rust Book section: The Static Lifetime:
+https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#the-static-lifetime

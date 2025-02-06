@@ -1,0 +1,33 @@
+Rust Book section: Unrecoverable Errors with panic!:
+https://doc.rust-lang.org/book/ch09-01-unrecoverable-errors-with-panic.html#unrecoverable-errors-with-panic
+
+Rust Documentation for panic! macro:
+https://doc.rust-lang.org/std/macro.panic.html
+
+Rust Documentation for process::exit function:
+https://doc.rust-lang.org/std/process/fn.exit.html
+
+Rust Documentation for eprintln! macro:
+https://doc.rust-lang.org/std/macro.eprintln.html
+
+Rust Documentation for file::open function:
+https://doc.rust-lang.org/std/fs/struct.File.html#method.open
+
+Rust Documentation for read_line method:
+https://doc.rust-lang.org/std/io/struct.Stdin.html#method.read_line
+
+Rust Book section: Propagating Errors:
+https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#propagating-errors
+
+Rust Documentation: std::io::Result:
+https://doc.rust-lang.org/stable/std/io/type.Result.html
+
+Rust Book section: A Shortcut for Propagating Errors: the ? Operator:
+https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#a-shortcut-for-propagating-errors-the--operator
+
+Rust Documentation for fs::read_to_str function:
+https://doc.rust-lang.org/std/fs/fn.read_to_string.html
+
+Rust Book section: Where The ? Operator Can Be Used:
+https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html#where-the--operator-can-be-used
+

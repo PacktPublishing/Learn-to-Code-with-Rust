@@ -1,0 +1,62 @@
+Rust Book section: Managing Growing Projects with Packages, Crates, and Modules:
+https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html
+
+Rust Book section: Packages and Crates:
+https://doc.rust-lang.org/book/ch07-01-packages-and-crates.html#packages-and-crates
+
+Rust Book section: Modules Cheat Sheet:
+https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html#modules-cheat-sheet
+
+Rust Book section: Grouping Related Code in Modules:
+https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html#grouping-related-code-in-modules
+
+Rust Book section: Exposing Paths with the pub Keyword:
+https://doc.rust-lang.org/book/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html#exposing-paths-with-the-pub-keyword
+
+Rust By Example: Visibility:
+https://doc.rust-lang.org/rust-by-example/mod/visibility.html
+
+Rust Book section: Separating Modules into Different Files
+https://doc.rust-lang.org/book/ch07-05-separating-modules-into-different-files.html#separating-modules-into-different-files
+
+Rust Book section: Making Structs and Enums Public:
+https://doc.rust-lang.org/book/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html#making-structs-and-enums-public
+
+Rust By Example: Struct visibility:
+https://doc.rust-lang.org/rust-by-example/mod/struct_visibility.html
+
+Rust Book section: Paths for Referring to an Item in the Module Tree:
+https://doc.rust-lang.org/book/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html#paths-for-referring-to-an-item-in-the-module-tree
+
+Rust Book section: Bringing Paths into Scope with the use Keyword:
+https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html#bringing-paths-into-scope-with-the-use-keyword
+
+Rust Book section: Using Nested Paths to Clean Up Large use Lists:
+https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html#using-nested-paths-to-clean-up-large-use-listsT
+
+Rust By Example section: The use declaration:
+https://doc.rust-lang.org/rust-by-example/mod/use.html
+
+Rust Book section: Starting Relative Paths with super:
+https://doc.rust-lang.org/book/ch07-03-paths-for-referring-to-an-item-in-the-module-tree.html#starting-relative-paths-with-super
+
+Rust Book section: super and self:
+https://doc.rust-lang.org/rust-by-example/mod/super.html
+
+Rust Book section: Providing New Names with the as Keyword:
+https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html#providing-new-names-with-the-as-keyword
+
+Rust Book section: Re-exporting Names with pub use:
+https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html#re-exporting-names-with-pub-use
+
+Rust Book section: Using a Crate to Get More Functionality:
+https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html#using-a-crate-to-get-more-functionality
+
+Rust Book section: Using External Packages:
+https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html#using-external-packages
+
+Documentation for Rust Standard Library (std):
+https://doc.rust-lang.org/std/
+
+Rust Book section: The Glob Operator:
+https://doc.rust-lang.org/book/ch07-04-bringing-paths-into-scope-with-the-use-keyword.html#the-glob-operator

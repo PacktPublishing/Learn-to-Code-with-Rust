@@ -1,0 +1,8 @@
+Rust Book section: Creating a New Vector:
+https://doc.rust-lang.org/book/ch08-01-vectors.html#creating-a-new-vector
+
+Rust Book section: Updating a Vector:
+https://doc.rust-lang.org/book/ch08-01-vectors.html#updating-a-vector
+
+Rust Book section: Reading Elements of Vectors:
+https://doc.rust-lang.org/book/ch08-01-vectors.html#reading-elements-of-vectors

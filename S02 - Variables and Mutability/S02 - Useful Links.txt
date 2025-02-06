@@ -1,0 +1,38 @@
+Rust Book section: Storing values with variables:
+https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html#storing-values-with-variables
+
+Rust Book section: Printing values with println placeholders:
+https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html#printing-values-with-println-placeholders
+
+Rust By Example section: Formatted print:
+https://doc.rust-lang.org/rust-by-example/hello/print.html
+
+Rust Book section: Variables and Mutability:
+https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html#variables-and-mutability
+
+Rust By Example section: Mutability:
+https://doc.rust-lang.org/rust-by-example/variable_bindings/mut.html
+
+Rust error codes index:
+https://doc.rust-lang.org/error_codes/error-index.html
+
+Documentation for Error E0384:
+https://doc.rust-lang.org/error_codes/E0384.html
+
+Rust Book section: Shadowing:
+https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html#shadowing
+
+Rust By Example section: Scoping and Shadowing:
+https://doc.rust-lang.org/rust-by-example/variable_bindings/scope.html
+
+Rust Book section: Constants:
+https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html#constants
+
+Rust By Example section: Constants:
+https://doc.rust-lang.org/rust-by-example/custom_types/constants.html
+
+Rust By Example section: Aliasing:
+https://doc.rust-lang.org/rust-by-example/types/alias.html
+
+Rust By Example section: Variable Bindings:
+https://doc.rust-lang.org/rust-by-example/variable_bindings.html

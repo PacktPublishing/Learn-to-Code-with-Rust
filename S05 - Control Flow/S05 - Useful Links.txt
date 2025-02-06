@@ -1,0 +1,23 @@
+Rust Book Section: if expression:
+https://doc.rust-lang.org/book/ch03-05-control-flow.html#if-expressions
+
+Rust By Example section: if/else:
+https://doc.rust-lang.org/rust-by-example/flow_control/if_else.html
+
+Rust Book section: Catch-all Patterns and the _ Placeholder:
+https://doc.rust-lang.org/book/ch06-02-match.html#catch-all-patterns-and-the-_-placeholder
+
+Rust Book section: Repeating code with Loop:
+https://doc.rust-lang.org/book/ch03-05-control-flow.html#repeating-code-with-loop
+
+Rust By Example section: Loop:
+https://doc.rust-lang.org/rust-by-example/flow_control/loop.html
+
+Rust Book section: Conditional Loops with While:
+https://doc.rust-lang.org/book/ch03-05-control-flow.html#conditional-loops-with-while
+
+Rust By Example section: While:
+https://doc.rust-lang.org/rust-by-example/flow_control/while.html
+
+Wikipedia article on Recursion:
+https://en.wikipedia.org/wiki/Recursion_(computer_science)

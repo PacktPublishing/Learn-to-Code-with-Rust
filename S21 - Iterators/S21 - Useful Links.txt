@@ -1,0 +1,176 @@
+Rust Book section: Specifying Placeholder Types in Trait Definitions with Associated Types:
+https://doc.rust-lang.org/book/ch19-03-advanced-traits.html#specifying-placeholder-types-in-trait-definitions-with-associated-types
+
+Documentation for Iterator Trait:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html
+
+Documentation for IntoIterator Trait:
+https://doc.rust-lang.org/std/iter/trait.IntoIterator.html
+
+Documentation for iter method:
+https://doc.rust-lang.org/std/vec/struct.Vec.html#method.iter
+
+Documentation for iter_mut method:
+https://doc.rust-lang.org/std/primitive.slice.html#method.iter_mut
+
+Documentation for iter_mut method on HashMap:
+https://doc.rust-lang.org/std/collections/struct.HashMap.html#method.iter_mut
+
+Documentation for bytes method:
+https://doc.rust-lang.org/core/primitive.str.html#method.bytes
+
+Documentation for chars method:
+https://doc.rust-lang.org/core/primitive.str.html#method.chars
+
+Documentation for for_each method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.for_each
+
+Documentation for map method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.map
+
+Documentation for collect method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.collect
+
+Documentation for map method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.map
+
+Documentation for filter method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.filter
+
+Documentation for find method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.find
+
+Documentation for any method:
+https://doc.rust-lang.org/beta/std/iter/trait.Iterator.html#method.any
+
+Documentation for all method:
+https://doc.rust-lang.org/beta/std/iter/trait.Iterator.html#method.all
+
+Documentation for cloned method:
+https://doc.rust-lang.org/beta/std/iter/trait.Iterator.html#method.cloned
+
+Documentation for filter_map method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.filter_map
+
+Documentation for flatten method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.flatten
+
+Documentaion to flat_map method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.flat_map
+
+Documentation for enumerate method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.enumerate
+
+Documentation for partition method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.partition
+
+Documentation for zip method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.zip
+
+Documentation for fold method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.fold
+
+Documentation for reduce method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.reduce
+
+Documentation for sum method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.sum
+
+Documentation for product method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.product
+
+Documentation for max method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.max
+
+Documentation for min method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.min
+
+Documentation for count method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.count
+
+Documentation for last method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.last
+
+Documentation for nth method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.nth
+
+Documentation for nth_back method:
+https://doc.rust-lang.org/std/iter/trait.DoubleEndedIterator.html#method.nth_back
+
+Documentation for position method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.position
+
+Documentation for take method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.take
+
+Documentation for rev method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.rev
+
+Documentation for skip method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.skip
+
+Documentation for step_by method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.step_by
+
+Documentation for sort method:
+https://doc.rust-lang.org/std/primitive.slice.html#method.sort
+
+Documentation for sort_by_key method:
+https://doc.rust-lang.org/std/primitive.slice.html#method.sort_by_key
+
+Rust Book section: Making Code Clearer with Iterator Adapters:
+https://doc.rust-lang.org/book/ch13-03-improving-our-io-project.html#making-code-clearer-with-iterator-adapters
+
+Documentation for Args struct:
+https://doc.rust-lang.org/std/env/struct.Args.html
+
+Documentation for args function:
+https://doc.rust-lang.org/std/env/fn.args.html
+
+Documentation for env submodule in standard library:
+https://doc.rust-lang.org/std/env/index.html
+
+Rust Book section: Reading the Argument Values
+https://doc.rust-lang.org/book/ch12-01-accepting-command-line-arguments.html#reading-the-argument-values
+
+Rust Documentation for parse method:
+https://doc.rust-lang.org/std/string/struct.String.html#method.parse
+
+Rust Documentation for map method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.map
+
+Rust Documentation for skip method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.skip
+
+Rust Documentation for take method:
+https://doc.rust-lang.org/std/iter/trait.Iterator.html#method.take
+
+Rust Book section: Using Iterator Trait Methods Instead of Indexing
+https://doc.rust-lang.org/book/ch13-03-improving-our-io-project.html#using-iterator-trait-methods-instead-of-indexing
+
+Documentation for read_dir function:
+https://doc.rust-lang.org/beta/std/fs/fn.read_dir.html
+
+Documentation for DirEntry struct:
+https://doc.rust-lang.org/beta/std/fs/struct.DirEntry.html
+
+Documentation for ReadDir struct:
+https://doc.rust-lang.org/beta/std/fs/struct.ReadDir.html
+
+Documentation for path method:
+https://doc.rust-lang.org/beta/std/fs/struct.DirEntry.html#method.path
+
+Documentation for metadata function:
+https://doc.rust-lang.org/beta/std/fs/fn.metadata.html
+
+Documentation for Metadata struct:
+https://doc.rust-lang.org/beta/std/fs/struct.Metadata.html
+
+Documentation for FromIterator trait:
+https://doc.rust-lang.org/std/iter/trait.FromIterator.html
+
+Wikipedia page for Wordle:
+https://en.wikipedia.org/wiki/Wordle
+
+Documentation for colored crate:
+https://crates.io/crates/colored
