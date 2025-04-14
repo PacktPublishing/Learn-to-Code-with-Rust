@@ -1,0 +1,15 @@
+{
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    "editor.formatOnSave": true,
+  },
+  "debug.allowBreakpointsEverywhere": true,
+  "editor.fontSize": 20,
+  "files.autoSave": "onFocusChange",
+  "rust-analyzer.checkOnSave": true,
+  "rust-analyzer.inlayHints.typeHints.enable": true,
+  "rust-analyzer.diagnostics.disabled": ["unlinked-file"],
+  "terminal.integrated.fontSize": 20,
+  "workbench.panel.defaultLocation": "right",
+  "window.zoomLevel": 0,
+}
